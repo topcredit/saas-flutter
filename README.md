@@ -86,7 +86,7 @@ https://fork.dev/
 
 ### 配置 拷贝 ssh 到 ~/.ssh/
 ssh.zip 
-解压密码：chenyue
+解压密码：通用
 
 ### 配置 ssh config
 code ~/.ssh/config
