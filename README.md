@@ -117,7 +117,7 @@ keytool -exportcert -alias keystore -keystore sign/keystore.jks -storepass $KEY_
 - 环境变量
 
 ```
-C:\Python27\;C:\Python27\Scripts;%JAVA_HOME%\bin;.;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;%ANDROID_SDK_ROOT%\cmdline-tools\latest\bin;%FLUTTER%\bin;C:\Users\Administrator\AppData\Local\Fork\gitInstance\2.30.2\mingw64\bin;%FLUTTER%\bin\cache\dart-sdk\bin
+.;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files\Git\cmd;%ANDROID_SDK_ROOT%\cmdline-tools\latest\bin;%FLUTTER%\bin;C:\Users\Administrator\AppData\Local\Fork\gitInstance\2.30.2\mingw64\bin;%FLUTTER%\bin\cache\dart-sdk\bin
 
 ANDROID_SDK_ROOT=C:\sdk
 
